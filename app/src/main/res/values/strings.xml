@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm_System</string>
+    <string-array name="name">
+        <item>Alarm1</item>
+        <item>Alarm2</item>
+        <item>Alarm3</item>
+
+    </string-array>
+</resources>
